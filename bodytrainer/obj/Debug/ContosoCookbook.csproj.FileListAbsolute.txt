@@ -1,0 +1,47 @@
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\resources.pri
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\AppxManifest.xml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\ContosoCookbook.build.appxrecipe
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\Callisto.dll
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\App.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\App.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\AboutUserControl.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\AboutUserControl.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\CustomStyles.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\CustomStyles.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\PreferencesUserControl.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\PreferencesUserControl.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\SearchResultsPage.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\SearchResultsPage.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\XamlTypeInfo.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\App.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\AboutUserControl.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\CustomStyles.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\PreferencesUserControl.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\SearchResultsPage.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupDetailPage.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\ItemDetailPage.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\priconfig.xml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\layout.resfiles
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\resources.resfiles
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\pri.resfiles
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\LanguageQualifiers.txt
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\ProjectArchitectures.txt
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\priconfig.xml.intermediate
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\layout.resfiles.intermediate
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\resources.resfiles.intermediate
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\pri.resfiles.intermediate
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\Body Trainer.exe
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\Body Trainer.pdb
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Body Trainer.exe
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Body Trainer.pdb

@@ -1,0 +1,47 @@
+D:\project\body trainer\body\bodytrainer\bin\Debug\Yoga Trainer.exe
+D:\project\body trainer\body\bodytrainer\bin\Debug\Yoga Trainer.pdb
+D:\project\body trainer\body\bodytrainer\bin\Debug\resources.pri
+D:\project\body trainer\body\bodytrainer\bin\Debug\AppxManifest.xml
+D:\project\body trainer\body\bodytrainer\bin\Debug\Yogatrainer.build.appxrecipe
+D:\project\body trainer\body\bodytrainer\bin\Debug\Callisto.dll
+D:\project\body trainer\body\bodytrainer\obj\Debug\App.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\App.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\AboutUserControl.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\AboutUserControl.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\CustomStyles.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\CustomStyles.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\PreferencesUserControl.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\PreferencesUserControl.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\SearchResultsPage.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\SearchResultsPage.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\StandardStyles.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\StandardStyles.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupedItemsPage.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupedItemsPage.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupDetailPage.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupDetailPage.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\ItemDetailPage.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\ItemDetailPage.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\XamlTypeInfo.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\App.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\AboutUserControl.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\CustomStyles.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\PreferencesUserControl.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\SearchResultsPage.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\StandardStyles.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupedItemsPage.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupDetailPage.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\ItemDetailPage.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\Yoga Trainer.exe
+D:\project\body trainer\body\bodytrainer\obj\Debug\Yoga Trainer.pdb
+D:\project\body trainer\body\bodytrainer\obj\Debug\Yogatrainer.csproj.GenerateResource.Cache
+D:\project\body trainer\body\bodytrainer\obj\Debug\priconfig.xml
+D:\project\body trainer\body\bodytrainer\obj\Debug\layout.resfiles
+D:\project\body trainer\body\bodytrainer\obj\Debug\resources.resfiles
+D:\project\body trainer\body\bodytrainer\obj\Debug\pri.resfiles
+D:\project\body trainer\body\bodytrainer\obj\Debug\LanguageQualifiers.txt
+D:\project\body trainer\body\bodytrainer\obj\Debug\ProjectArchitectures.txt
+D:\project\body trainer\body\bodytrainer\obj\Debug\priconfig.xml.intermediate
+D:\project\body trainer\body\bodytrainer\obj\Debug\layout.resfiles.intermediate
+D:\project\body trainer\body\bodytrainer\obj\Debug\resources.resfiles.intermediate
+D:\project\body trainer\body\bodytrainer\obj\Debug\pri.resfiles.intermediate

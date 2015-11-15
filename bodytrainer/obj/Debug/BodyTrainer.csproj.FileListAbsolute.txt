@@ -1,0 +1,137 @@
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\Body Trainer.exe
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\Body Trainer.pdb
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\resources.pri
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\AppxManifest.xml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\BodyTrainer.build.appxrecipe
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\Callisto.dll
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\App.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\App.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\AboutUserControl.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\AboutUserControl.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\CustomStyles.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\CustomStyles.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\PreferencesUserControl.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\PreferencesUserControl.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\SearchResultsPage.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\SearchResultsPage.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.i.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\ItemDetailPage.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\XamlTypeInfo.g.cs
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\App.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\AboutUserControl.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\CustomStyles.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\PreferencesUserControl.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\SearchResultsPage.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Common\StandardStyles.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupedItemsPage.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\GroupDetailPage.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\ItemDetailPage.xaml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Body Trainer.exe
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\Body Trainer.pdb
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\BodyTrainer.csproj.GenerateResource.Cache
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\priconfig.xml.intermediate
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\layout.resfiles.intermediate
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\resources.resfiles.intermediate
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\pri.resfiles.intermediate
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\priconfig.xml
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\layout.resfiles
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\resources.resfiles
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\pri.resfiles
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\LanguageQualifiers.txt
+C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\obj\Debug\ProjectArchitectures.txt
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Debug\Body Trainer.exe
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Debug\Body Trainer.pdb
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Debug\resources.pri
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Debug\AppxManifest.xml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Debug\BodyTrainer.build.appxrecipe
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Debug\Callisto.dll
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\App.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\App.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\AboutUserControl.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\AboutUserControl.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\Common\CustomStyles.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\Common\CustomStyles.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\PreferencesUserControl.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\PreferencesUserControl.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\SearchResultsPage.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\SearchResultsPage.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\GroupDetailPage.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\ItemDetailPage.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\App.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\AboutUserControl.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\Common\CustomStyles.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\PreferencesUserControl.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\SearchResultsPage.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\Common\StandardStyles.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\GroupedItemsPage.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\GroupDetailPage.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\ItemDetailPage.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\Body Trainer.exe
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\Body Trainer.pdb
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\BodyTrainer.csproj.GenerateResource.Cache
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\priconfig.xml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\layout.resfiles
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\resources.resfiles
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\pri.resfiles
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\LanguageQualifiers.txt
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Debug\ProjectArchitectures.txt
+D:\project\body trainer\body\bodytrainer\bin\Debug\resources.pri
+D:\project\body trainer\body\bodytrainer\bin\Debug\AppxManifest.xml
+D:\project\body trainer\body\bodytrainer\bin\Debug\BodyTrainer.build.appxrecipe
+D:\project\body trainer\body\bodytrainer\bin\Debug\Callisto.dll
+D:\project\body trainer\body\bodytrainer\obj\Debug\App.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\App.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\AboutUserControl.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\AboutUserControl.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\CustomStyles.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\CustomStyles.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\PreferencesUserControl.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\PreferencesUserControl.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\SearchResultsPage.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\SearchResultsPage.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\StandardStyles.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\StandardStyles.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupedItemsPage.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupedItemsPage.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupDetailPage.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupDetailPage.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\ItemDetailPage.g.i.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\ItemDetailPage.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\XamlTypeInfo.g.cs
+D:\project\body trainer\body\bodytrainer\obj\Debug\App.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\AboutUserControl.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\CustomStyles.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\PreferencesUserControl.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\SearchResultsPage.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\Common\StandardStyles.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupedItemsPage.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\GroupDetailPage.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\ItemDetailPage.xaml
+D:\project\body trainer\body\bodytrainer\obj\Debug\BodyTrainer.csproj.GenerateResource.Cache
+D:\project\body trainer\body\bodytrainer\obj\Debug\priconfig.xml
+D:\project\body trainer\body\bodytrainer\obj\Debug\layout.resfiles
+D:\project\body trainer\body\bodytrainer\obj\Debug\resources.resfiles
+D:\project\body trainer\body\bodytrainer\obj\Debug\pri.resfiles
+D:\project\body trainer\body\bodytrainer\obj\Debug\LanguageQualifiers.txt
+D:\project\body trainer\body\bodytrainer\obj\Debug\ProjectArchitectures.txt
+D:\project\body trainer\body\bodytrainer\bin\Debug\Yoga Trainer.exe
+D:\project\body trainer\body\bodytrainer\bin\Debug\Yoga Trainer.pdb
+D:\project\body trainer\body\bodytrainer\obj\Debug\Yoga Trainer.exe
+D:\project\body trainer\body\bodytrainer\obj\Debug\Yoga Trainer.pdb
+D:\project\body trainer\body\bodytrainer\obj\Debug\priconfig.xml.intermediate
+D:\project\body trainer\body\bodytrainer\obj\Debug\layout.resfiles.intermediate
+D:\project\body trainer\body\bodytrainer\obj\Debug\resources.resfiles.intermediate
+D:\project\body trainer\body\bodytrainer\obj\Debug\pri.resfiles.intermediate

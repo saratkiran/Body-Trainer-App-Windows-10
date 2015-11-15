@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SARATKIRAN</Machine>
+    <WindowsUser>saratkiran</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\Body Trainer.exe">
+      <PackagePath>Body Trainer.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\Body Trainer.pdb">
+      <PackagePath>Body Trainer.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Callisto\1.2.1\References\CommonConfiguration\neutral\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Callisto\1.2.1\Redist\CommonConfiguration\neutral\Themes\Generic.xaml">
+      <PackagePath>Callisto\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\DS-DIGIT.TTF">
+      <PackagePath>Assets\DS-DIGIT.TTF</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\rating-0.png">
+      <PackagePath>Assets\rating-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\rating-1.png">
+      <PackagePath>Assets\rating-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\rating-2.png">
+      <PackagePath>Assets\rating-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\rating-3.png">
+      <PackagePath>Assets\rating-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\rating-4.png">
+      <PackagePath>Assets\rating-4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\rating-5.png">
+      <PackagePath>Assets\rating-5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\Title.png">
+      <PackagePath>Assets\Title.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\chinese_group.png">
+      <PackagePath>Images\chinese\chinese_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\chinese_group_detail.png">
+      <PackagePath>Images\chinese\chinese_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\chinese_group_header.png">
+      <PackagePath>Images\chinese\chinese_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\french_group.png">
+      <PackagePath>Images\french\french_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\french_group_detail.png">
+      <PackagePath>Images\french\french_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\french_group_header.png">
+      <PackagePath>Images\french\french_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\german_group.png">
+      <PackagePath>Images\german\german_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\german_group_detail.png">
+      <PackagePath>Images\german\german_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\german_group_header.png">
+      <PackagePath>Images\german\german_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\indian_group.png">
+      <PackagePath>Images\indian\indian_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\indian_group_detail.png">
+      <PackagePath>Images\indian\indian_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\indian_group_header.png">
+      <PackagePath>Images\indian\indian_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\italian_group.png">
+      <PackagePath>Images\italian\italian_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\italian_group_detail.png">
+      <PackagePath>Images\italian\italian_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\italian_group_header.png">
+      <PackagePath>Images\italian\italian_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\mexican_group.png">
+      <PackagePath>Images\mexican\mexican_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\mexican_group_detail.png">
+      <PackagePath>Images\mexican\mexican_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\mexican_group_header.png">
+      <PackagePath>Images\mexican\mexican_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\theme\logo.png">
+      <PackagePath>Images\theme\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Data\AzureRecipesRP.txt">
+      <PackagePath>Data\AzureRecipesRP.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Data\training.txt">
+      <PackagePath>Data\training.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Data\license.xml">
+      <PackagePath>Data\license.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_1_150_C.jpg">
+      <PackagePath>Images\chinese\Chinese_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_1_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_2_150_C.jpg">
+      <PackagePath>Images\chinese\Chinese_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_2_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_3_150_C.jpg">
+      <PackagePath>Images\chinese\Chinese_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_3_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_4_150_C.jpg">
+      <PackagePath>Images\chinese\Chinese_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_4_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_5_150_C.jpg">
+      <PackagePath>Images\chinese\Chinese_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_5_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_6_150_C.jpg">
+      <PackagePath>Images\chinese\Chinese_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_6_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_1_150_C.jpg">
+      <PackagePath>Images\french\French_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_1_600_C.jpg">
+      <PackagePath>Images\french\French_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_2_150_C.jpg">
+      <PackagePath>Images\french\French_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_2_600_C.jpg">
+      <PackagePath>Images\french\French_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_3_150_C.jpg">
+      <PackagePath>Images\french\French_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_3_600_C.jpg">
+      <PackagePath>Images\french\French_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_4_150_C.jpg">
+      <PackagePath>Images\french\French_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_4_600_C.jpg">
+      <PackagePath>Images\french\French_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_5_150_C.jpg">
+      <PackagePath>Images\french\French_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_5_600_C.jpg">
+      <PackagePath>Images\french\French_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_6_150_C.jpg">
+      <PackagePath>Images\french\French_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_6_600_C.jpg">
+      <PackagePath>Images\french\French_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_1_150_C.jpg">
+      <PackagePath>Images\german\German_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_1_600_C.jpg">
+      <PackagePath>Images\german\German_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_2_150_C.jpg">
+      <PackagePath>Images\german\German_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_2_600_C.jpg">
+      <PackagePath>Images\german\German_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_3_150_C.jpg">
+      <PackagePath>Images\german\German_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_3_600_C.jpg">
+      <PackagePath>Images\german\German_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_4_150_C.jpg">
+      <PackagePath>Images\german\German_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_4_600_C.jpg">
+      <PackagePath>Images\german\German_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_5_150_C.jpg">
+      <PackagePath>Images\german\German_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_5_600_C.jpg">
+      <PackagePath>Images\german\German_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_6_150_C.jpg">
+      <PackagePath>Images\german\German_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_6_600_C.jpg">
+      <PackagePath>Images\german\German_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_1_150_C.jpg">
+      <PackagePath>Images\indian\Indian_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_1_600_C.jpg">
+      <PackagePath>Images\indian\Indian_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_2_150_C.jpg">
+      <PackagePath>Images\indian\Indian_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_2_600_C.jpg">
+      <PackagePath>Images\indian\Indian_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_3_150_C.jpg">
+      <PackagePath>Images\indian\Indian_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_3_600_C.jpg">
+      <PackagePath>Images\indian\Indian_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_4_150_C.jpg">
+      <PackagePath>Images\indian\Indian_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_4_600_C.jpg">
+      <PackagePath>Images\indian\Indian_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_5_150_C.jpg">
+      <PackagePath>Images\indian\Indian_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_5_600_C.jpg">
+      <PackagePath>Images\indian\Indian_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_6_150_C.jpg">
+      <PackagePath>Images\indian\Indian_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\indian\Indian_6_600_C.jpg">
+      <PackagePath>Images\indian\Indian_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_1_150_C.jpg">
+      <PackagePath>Images\italian\Italian_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_1_600_C.jpg">
+      <PackagePath>Images\italian\Italian_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_2_150_C.jpg">
+      <PackagePath>Images\italian\Italian_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_2_600_C.jpg">
+      <PackagePath>Images\italian\Italian_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_3_150_C.jpg">
+      <PackagePath>Images\italian\Italian_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_3_600_C.jpg">
+      <PackagePath>Images\italian\Italian_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_4_150_C.jpg">
+      <PackagePath>Images\italian\Italian_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_4_600_C.jpg">
+      <PackagePath>Images\italian\Italian_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_5_150_C.jpg">
+      <PackagePath>Images\italian\Italian_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_5_600_C.jpg">
+      <PackagePath>Images\italian\Italian_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_6_150_C.jpg">
+      <PackagePath>Images\italian\Italian_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_6_600_C.jpg">
+      <PackagePath>Images\italian\Italian_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_1_150_C.jpg">
+      <PackagePath>Images\mexican\Mexican_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_1_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_2_150_C.jpg">
+      <PackagePath>Images\mexican\Mexican_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_2_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_3_150_C.jpg">
+      <PackagePath>Images\mexican\Mexican_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_3_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_4_150_C.jpg">
+      <PackagePath>Images\mexican\Mexican_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_4_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_5_150_C.jpg">
+      <PackagePath>Images\mexican\Mexican_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_5_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_6_150_C.jpg">
+      <PackagePath>Images\mexican\Mexican_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\mexican\Mexican_6_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\chinese\Chinese_6_310_C.jpg">
+      <PackagePath>Images\chinese\Chinese_6_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\french\French_2_310_C.jpg">
+      <PackagePath>Images\french\French_2_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\german\German_4_310_C.jpg">
+      <PackagePath>Images\german\German_4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_4_310_C.jpg">
+      <PackagePath>Images\italian\Italian_4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\Images\italian\Italian_5_310_C.jpg">
+      <PackagePath>Images\italian\Italian_5_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\AboutUserControl.xaml">
+      <PackagePath>AboutUserControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\Common\CustomStyles.xaml">
+      <PackagePath>Common\CustomStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\PreferencesUserControl.xaml">
+      <PackagePath>PreferencesUserControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\SearchResultsPage.xaml">
+      <PackagePath>SearchResultsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Win8CS\Demos\02 - ContosoCookbook XAML\Source\ContosoCookbook\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

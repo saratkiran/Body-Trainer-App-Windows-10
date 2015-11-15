@@ -1,0 +1,43 @@
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Release\Body Trainer.exe
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Release\Body Trainer.pdb
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Release\resources.pri
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Release\AppxManifest.xml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Release\BodyTrainer.build.appxrecipe
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\bin\Release\Callisto.dll
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\App.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\App.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\AboutUserControl.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\AboutUserControl.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\Common\CustomStyles.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\Common\CustomStyles.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\PreferencesUserControl.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\PreferencesUserControl.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\SearchResultsPage.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\SearchResultsPage.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\Common\StandardStyles.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\GroupedItemsPage.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\GroupedItemsPage.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\GroupDetailPage.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\GroupDetailPage.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\ItemDetailPage.g.i.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\ItemDetailPage.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\XamlTypeInfo.g.cs
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\App.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\AboutUserControl.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\PreferencesUserControl.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\SearchResultsPage.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\Common\StandardStyles.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\GroupedItemsPage.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\GroupDetailPage.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\ItemDetailPage.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\Common\CustomStyles.xaml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\Body Trainer.exe
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\Body Trainer.pdb
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\BodyTrainer.csproj.GenerateResource.Cache
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\priconfig.xml
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\layout.resfiles
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\resources.resfiles
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\pri.resfiles
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\LanguageQualifiers.txt
+C:\Users\saratkiran\Documents\Visual Studio 2012\Projects\body\bodytrainer\obj\Release\ProjectArchitectures.txt
